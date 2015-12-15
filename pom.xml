@@ -9,7 +9,7 @@
 
     <packaging>maven-plugin</packaging>
 
-    <name>Sample Parameter-less Maven Plugin</name>
+    <name>Sample Hello World Maven Plugin with and without parameters</name>
 
     <dependencies>
 
